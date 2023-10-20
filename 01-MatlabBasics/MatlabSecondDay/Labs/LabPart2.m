@@ -1,0 +1,10 @@
+Owner.name = "Abdelrahman";
+Owner.age = 23;
+Owner.city = "Nasr city";
+disp(Owner);
+%disp("__________________________________________________");
+disp(Owner.name);
+disp("__________________________________________________");
+disp(Owner.age);
+disp("__________________________________________________");
+disp(Owner.city);
